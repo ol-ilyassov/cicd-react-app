@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Практика 2
+
+1. Создать любой yaml файл внутри папки `.github/.workflows`
+2. Написать CI чтобы
+
+- Workflow запускается, когда код пушится в указанную ветку или когда создается или обновляется pull request, направленный в указанную ветку.
+- Создать job с названием init и указать, на каком типе виртуальной машины будет выполняться workflow и задать стратегию
+- Расписать шаги для сборки, установки, Unit и Е2Е тестов и линтов
+
 ## Available Scripts
 
 In the project directory, you can run:
