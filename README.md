@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Github Actions Demo CICD Project
 
 ## Практика 2
 
@@ -10,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Workflow запускается, когда код пушится в указанную ветку или когда создается или обновляется pull request, направленный в указанную ветку.
 - Создать job с названием init и указать, на каком типе виртуальной машины будет выполняться workflow и задать стратегию
 - Расписать шаги для сборки, установки, Unit и Е2Е тестов и линтов
+
+# Typical Readme for React Project
 
 ## Available Scripts
 
